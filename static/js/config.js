@@ -2,7 +2,7 @@ export const CONSTANTS = {
   FILE: {
     IMAGE_NAME: "image.jpg",
   },
-  FPS: 25,
+  FPS: 10,
 };
 
 export const CONFIG = {
