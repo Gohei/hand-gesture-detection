@@ -90,6 +90,4 @@ hand_gesture
 ![gif](./images/collect_data.gif)
 
 ## 2. Data Visualization and Analysis
-
-![plot1](./images/plot1.png)
 ![plot2](./images/plot2.png)
