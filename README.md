@@ -80,3 +80,16 @@ hand_gesture
 
 - `GET /`: Serves the main index page.
 - `POST /process_image/`: Receives an image from the client, processes it for hand gesture detection, and returns the result.
+
+# Development Steps
+
+## 1. Data Collection
+
+### Collecting Gesture Data Using Mediapipe and OpenCV
+
+![gif](./images/collect_data.gif)
+
+## 2. Data Visualization and Analysis
+
+![plot1](./images/plot1.png)
+![plot2](./images/plot2.png)
